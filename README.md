@@ -1,2 +1,2 @@
 # blog-site-non-reponsive-
-Here is the my blog site not responsive as this was my first project using HTML5,CSS.
+Here is the Single page website Using HTML5,CSS only.
