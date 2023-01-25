@@ -1,0 +1,111 @@
+#title{
+    background-color:#ff4c68;
+    width:100%;
+    
+}
+#title img{
+    width:60%;
+    position:relative;
+    top:150px;
+}
+body{
+font-family:Cabin;
+line-height:1.5;
+}
+h1{
+    font-weight: bolder;
+}
+
+.container-fluid{
+    padding: 3%;
+}
+#features{
+background-color: white;
+padding:7% 15%;
+text-align: center;
+position:relative;
+z-index:1;
+
+}
+#feature i{
+    color:#ff4c68; 
+    font-size: 80px;
+}
+#feature i:hover{
+    color:red;
+}
+#testimonials{
+    background-color:#ff4c68;
+    text-align: center;
+    padding:20px;
+}
+#testimonials img{
+    width:10%;
+    border-radius:100%;
+    margin:5px;
+}
+#testimonials h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+    font-weight: bold;
+}
+#press{
+    background-color: #ff4c68;
+    padding:40px;
+    text-align: center;
+    
+}
+#press img{
+    width:20%;
+    padding:10px;
+}
+.card{
+    
+    margin:5px;
+}
+#fi{
+    margin:3px;
+}
+@media(max-width:319px){
+    #fi{
+        margin-top: 5%;
+        margin-left:0;
+    }
+}
+#cta{
+    margin-top:5%;
+    background-color: #ff4c68;
+    width:100%;
+    height:260px;
+    text-align: center;
+    color:white;
+    font-size: larger;
+    padding:2%;
+    font-weight: 900;
+}
+#cta button{
+    
+    margin:4px;
+}
+#cta h3{
+    font-size: 1cm;
+    margin-top: 5%;
+}
+@media(max-width:404px){
+    #cta h3{
+        font-size:larger;
+    }
+
+}
+#footer{
+    text-align: center;
+    background-color: rgba(37, 35, 35, 0.856);
+}
+#footer a{
+    text-decoration:none;
+    font-size: larger;
+    color:white;
+}
+#footer p{
+    color:white;
+}
